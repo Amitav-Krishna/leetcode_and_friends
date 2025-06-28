@@ -5,6 +5,7 @@
 
 ## Examples
 input: adj[][] = [[1, 2], [0, 5], [0, 3, 4], [0, 2], [2]]
+
 ```mermaid
 graph TD;
     0-->1;
@@ -13,7 +14,7 @@ graph TD;
     1-->5;
     2-->3;
     2-->4;
-    ```
-\n
+```
+
 # Sources
 [Geeks for Geeks](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/)
