@@ -10,19 +10,23 @@
 Array: [1, 2, 2, 4, 5, 7, 9, 10, 14, 17, 18].
 Key: 10
 
-1a. The middle of the array is 7.
-2a. 7 != 10. 7 !> 10. 7 < 10, therefore the array will be made up of the elements to the right of the middle.
+**a**
+1. The middle of the array is 7.
+2. 7 != 10. 7 !> 10. 7 < 10, therefore the array will be made up of the elements to the right of the middle.
 New array: [9, 10, 14, 17, 18].
 
-1b. The middle of the array is 14.
-2b. 14 != 10. 14 > 10, therefore the array will be made up of the elements to the left of the middle.
+**b**
+1. The middle of the array is 14.
+2. 14 != 10. 14 > 10, therefore the array will be made up of the elements to the left of the middle.
 New array: [9, 10]
 
-1c. The middle of the array is 9.
-2c. 9 != 10. 9 !> 10. 9 < 10, there for the array will be made up of the elements to the right of the middle.
+**c**
+1. The middle of the array is 9.
+2. 9 != 10. 9 !> 10. 9 < 10, there for the array will be made up of the elements to the right of the middle.
 New array: [10]
 
-1d. The middle of the array is 10.
-2d. 10 == 10. 10 !> 10. 10 <\! 10. Therefore, the key is the middle element
+**d**
+1. The middle of the array is 10.
+2. 10 == 10. 10 !> 10. 10 <\! 10. Therefore, the key is the middle element
 # Sources
 [Geeks For Geeks](https://www.geeksforgeeks.org/dsa/binary-search/)

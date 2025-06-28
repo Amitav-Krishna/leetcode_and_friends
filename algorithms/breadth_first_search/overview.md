@@ -18,6 +18,7 @@ graph TD;
 
 Queue: [0].
 Visited: [].
+
 **a**
 1. Traverse to node 0.
 2. Queue unvisited neighbours [1, 2].
