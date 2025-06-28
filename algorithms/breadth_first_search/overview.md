@@ -62,7 +62,9 @@ Visited: [0, 1, 2, 5, 3].
 **f**
 1. Traverse to node 4.
 2. Queue unvisited neighbours [].
+
 Queue: [].
+
 Visited: [0, 1, 2, 5, 3, 4].
 
 # Sources
