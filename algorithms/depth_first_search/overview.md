@@ -14,6 +14,7 @@ graph TD;
     2-->4;
 ```
 Stack: [0]
+
 Visited:[]
 
 **a**
@@ -67,3 +68,4 @@ Visited: [0, 1, 5, 2, 4, 3].
 
 
 # Sources
+[Geeks for Geeks](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/)
