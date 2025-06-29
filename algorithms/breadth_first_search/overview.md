@@ -1,7 +1,7 @@
 # How it works
 ## Process
 1. Traverse to next node in the queue. 
-2. Queue all unvisited neighbours of the current node.
+2. Queue all unvisited neighbours of the current node to the end.
 
 ## Examples
 input: adj[][] = [[1, 2], [0, 5], [0, 3, 4], [0, 2], [2]]
